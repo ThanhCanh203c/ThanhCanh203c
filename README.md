@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThanhCanh203c
+- 👀 I’m interested in building software
+- 🌱 I’m currently learning Reactjs -> React Native
+- 💞️ I’m looking to collaborate on none
+- 📫 How to reach me https://www.facebook.com/Canh.IUH.IT/
